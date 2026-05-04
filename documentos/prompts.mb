@@ -1,0 +1,96 @@
+---
+## 🧠 Ferramentas utilizadas
+
+- NotebookLM (Google)
+- GitHub
+- Inteligência Artificial
+
+# 🧠 Engenharia de Prompts
+
+Este documento mostra a evolução dos prompts utilizados no projeto.
+
+---
+
+## 🔹 Nível 1 — Básico
+
+### Prompt:
+Explique o que são juros compostos
+
+### Resultado:
+- Resposta genérica
+- Pouco detalhada
+- Difícil entendimento
+
+---
+
+## 🔹 Nível 2 — Intermediário
+
+### Prompt:
+Explique juros compostos como se eu fosse iniciante
+
+### Resultado:
+- Linguagem mais simples
+- Melhor compreensão
+- Mais didático
+
+---
+
+## 🔹 Nível 3 — Aplicação prática
+
+### Prompt:
+Explique juros compostos com um exemplo usando dinheiro
+
+### Resultado:
+- Uso de exemplos reais
+- Visualização do crescimento
+- Melhor aprendizado
+
+---
+
+## 🔹 Nível 4 — Simulação
+
+### Prompt:
+Simule investir 100 reais por mês com juros compostos por 1 ano
+
+### Resultado:
+- Aplicação real
+- Entendimento prático
+- Visualização de resultados
+
+---
+
+## 🔹 Nível 5 — Exploração
+
+### Prompts utilizados:
+
+- Como usar a Calculadora do Cidadão?
+- Qual a diferença entre juros simples e compostos?
+- Quais cursos ensinam sobre juros?
+- Como os juros afetam dívidas?
+
+---
+
+## ⚠️ Aprendizados
+
+- Prompts simples = respostas fracas  
+- Prompts detalhados = respostas melhores  
+- Contexto é essencial  
+- IA não substitui interpretação  
+
+---
+
+## 📌 Prompts Reutilizáveis
+
+- Explique de forma simples  
+- Dê exemplos práticos  
+- Compare conceitos  
+- Simule cenários  
+- Resuma conteúdos  
+
+---
+
+## 🚀 Conclusão
+
+A engenharia de prompts foi essencial para melhorar a qualidade das respostas da IA.
+
+Pequenas mudanças nas perguntas geraram grandes diferenças nos resultados.
