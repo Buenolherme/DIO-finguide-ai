@@ -56,7 +56,7 @@ Explique juros compostos como se eu fosse iniciante
 
 📸 Print:
 
-![Prompt](./images/prompt.png)
+![Prompt](./imagens/prompt.png)
 
 ---
 
@@ -86,7 +86,7 @@ Durante o uso da IA, foram identificados alguns pontos importantes:
 
 📸 Comparação de respostas:
 
-![Comparação](./images/comparacao1.png)
+![Comparação](./imagens/comparacao1.png)
 
 ---
 
@@ -126,7 +126,7 @@ Capacidade de tomar decisões financeiras conscientes.
 
 📸 Resumo gerado pela IA:
 
-![Resumo](./images/resumo1.png)
+![Resumo](./imagens/resumo1.png)
 
 ---
 
