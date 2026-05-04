@@ -34,7 +34,7 @@ As seguintes fontes foram utilizadas no NotebookLM:
 
 📸 Print das fontes utilizadas:
 
-![Fontes](./images/listafontes.png)
+![Fontes](./imagens/listafontes.png)
 
 ---
 
